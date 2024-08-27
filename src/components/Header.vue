@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <p class="header-title">Header</p>
+    <p class="header-title">Centum-D Test</p>
     <div class="nav-block">
       <router-link class="nav-block-link" to="/">Home Page</router-link>
       <router-link class="nav-block-link" to="/change">Change Courses</router-link>

@@ -24,7 +24,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 input {
   margin: 20px auto;
   width: 70%;;
